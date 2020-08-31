@@ -1,0 +1,3 @@
+include ':xutlis'
+include ':app'
+rootProject.name = "MyApplica"
