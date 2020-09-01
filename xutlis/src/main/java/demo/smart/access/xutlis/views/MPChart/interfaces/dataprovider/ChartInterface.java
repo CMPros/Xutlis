@@ -2,9 +2,9 @@ package demo.smart.access.xutlis.views.MPChart.interfaces.dataprovider;
 
 import android.graphics.RectF;
 
-import com.zx.zxutils.views.MPChart.data.ChartData;
-import com.zx.zxutils.views.MPChart.formatter.IValueFormatter;
-import com.zx.zxutils.views.MPChart.utils.MPPointF;
+import demo.smart.access.xutlis.views.MPChart.data.ChartData;
+import demo.smart.access.xutlis.views.MPChart.formatter.IValueFormatter;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointF;
 
 /**
  * Interface that provides everything there is to know about the dimensions,

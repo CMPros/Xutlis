@@ -6,7 +6,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 
-import com.zx.zxutils.ZXApp;
+import demo.smart.access.xutlis.ZXApp;
 
 /**
  * <pre>

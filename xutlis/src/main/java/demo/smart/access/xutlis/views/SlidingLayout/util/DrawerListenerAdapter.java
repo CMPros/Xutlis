@@ -3,8 +3,8 @@ package demo.smart.access.xutlis.views.SlidingLayout.util;
 import android.support.v4.widget.DrawerLayout;
 import android.view.View;
 
-import com.zx.zxutils.views.SlidingLayout.callback.DragListener;
-import com.zx.zxutils.views.SlidingLayout.callback.DragStateListener;
+import demo.smart.access.xutlis.views.SlidingLayout.callback.DragListener;
+import demo.smart.access.xutlis.views.SlidingLayout.callback.DragStateListener;
 
 
 /**

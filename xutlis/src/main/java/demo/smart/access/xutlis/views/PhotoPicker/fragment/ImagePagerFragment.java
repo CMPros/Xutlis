@@ -18,8 +18,8 @@ import com.nineoldandroids.animation.Animator;
 import com.nineoldandroids.animation.ObjectAnimator;
 import com.nineoldandroids.view.ViewHelper;
 import com.nineoldandroids.view.ViewPropertyAnimator;
-import com.zx.zxutils.R;
-import com.zx.zxutils.views.PhotoPicker.adapter.PhotoPagerAdapter;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.views.PhotoPicker.adapter.PhotoPagerAdapter;
 
 import java.util.ArrayList;
 import java.util.Arrays;

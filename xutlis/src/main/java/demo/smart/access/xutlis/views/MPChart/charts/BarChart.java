@@ -5,14 +5,14 @@ import android.graphics.RectF;
 import android.util.AttributeSet;
 import android.util.Log;
 
-import com.zx.zxutils.views.MPChart.components.YAxis;
-import com.zx.zxutils.views.MPChart.data.BarData;
-import com.zx.zxutils.views.MPChart.data.BarEntry;
-import com.zx.zxutils.views.MPChart.highlight.BarHighlighter;
-import com.zx.zxutils.views.MPChart.highlight.Highlight;
-import com.zx.zxutils.views.MPChart.interfaces.dataprovider.BarDataProvider;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IBarDataSet;
-import com.zx.zxutils.views.MPChart.renderer.BarChartRenderer;
+import demo.smart.access.xutlis.views.MPChart.components.YAxis;
+import demo.smart.access.xutlis.views.MPChart.data.BarData;
+import demo.smart.access.xutlis.views.MPChart.data.BarEntry;
+import demo.smart.access.xutlis.views.MPChart.highlight.BarHighlighter;
+import demo.smart.access.xutlis.views.MPChart.highlight.Highlight;
+import demo.smart.access.xutlis.views.MPChart.interfaces.dataprovider.BarDataProvider;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IBarDataSet;
+import demo.smart.access.xutlis.views.MPChart.renderer.BarChartRenderer;
 
 /**
  * Chart that draws bars.

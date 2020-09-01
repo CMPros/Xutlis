@@ -30,7 +30,7 @@ import android.support.annotation.FloatRange;
 import android.util.AttributeSet;
 import android.widget.FrameLayout;
 
-import com.zx.zxutils.R;
+import demo.smart.access.xutlis.R;
 
 
 /**

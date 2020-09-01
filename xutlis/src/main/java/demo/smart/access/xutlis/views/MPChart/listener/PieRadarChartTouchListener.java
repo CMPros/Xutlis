@@ -6,10 +6,10 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.animation.AnimationUtils;
 
-import com.zx.zxutils.views.MPChart.charts.PieRadarChartBase;
-import com.zx.zxutils.views.MPChart.highlight.Highlight;
-import com.zx.zxutils.views.MPChart.utils.MPPointF;
-import com.zx.zxutils.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.charts.PieRadarChartBase;
+import demo.smart.access.xutlis.views.MPChart.highlight.Highlight;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointF;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
 
 import java.util.ArrayList;
 

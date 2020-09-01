@@ -3,9 +3,9 @@ package demo.smart.access.xutlis.views.MPChart.jobs;
 
 import android.view.View;
 
-import com.zx.zxutils.views.MPChart.utils.ObjectPool;
-import com.zx.zxutils.views.MPChart.utils.Transformer;
-import com.zx.zxutils.views.MPChart.utils.ViewPortHandler;
+import demo.smart.access.xutlis.views.MPChart.utils.ObjectPool;
+import demo.smart.access.xutlis.views.MPChart.utils.Transformer;
+import demo.smart.access.xutlis.views.MPChart.utils.ViewPortHandler;
 
 /**
  * Created by Philipp Jahoda on 19/02/16.

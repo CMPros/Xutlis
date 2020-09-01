@@ -15,16 +15,16 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.util.ZXSystemUtil;
-import com.zx.zxutils.views.ZXNoScrllViewPager;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.util.ZXSystemUtil;
+import demo.smart.access.xutlis.views.ZXNoScrllViewPager;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.zx.zxutils.views.TabViewPager.ZXTabViewPager.TabGravity.GRAVITY_BOTTOM;
-import static com.zx.zxutils.views.TabViewPager.ZXTabViewPager.TabGravity.GRAVITY_TOP;
+import static demo.smart.access.xutlis.views.TabViewPager.ZXTabViewPager.TabGravity.GRAVITY_BOTTOM;
+import static demo.smart.access.xutlis.views.TabViewPager.ZXTabViewPager.TabGravity.GRAVITY_TOP;
 
 /**
  * Created by Xiangb on 2017/4/1.

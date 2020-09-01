@@ -21,8 +21,8 @@ import android.util.AttributeSet;
 import android.view.ViewGroup;
 import android.widget.RelativeLayout;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.util.ZXSystemUtil;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.util.ZXSystemUtil;
 
 /**
  * 气泡布局

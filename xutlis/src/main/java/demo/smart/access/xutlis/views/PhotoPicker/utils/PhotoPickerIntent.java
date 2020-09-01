@@ -2,7 +2,7 @@ package demo.smart.access.xutlis.views.PhotoPicker.utils;
 
 import android.content.Intent;
 
-import com.zx.zxutils.views.PhotoPicker.PhotoPicker;
+import demo.smart.access.xutlis.views.PhotoPicker.PhotoPicker;
 
 import java.util.ArrayList;
 

@@ -11,15 +11,15 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.MotionEvent;
 
-import com.zx.zxutils.views.MPChart.animation.Easing;
-import com.zx.zxutils.views.MPChart.components.Legend;
-import com.zx.zxutils.views.MPChart.components.XAxis;
-import com.zx.zxutils.views.MPChart.data.ChartData;
-import com.zx.zxutils.views.MPChart.data.Entry;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IDataSet;
-import com.zx.zxutils.views.MPChart.listener.PieRadarChartTouchListener;
-import com.zx.zxutils.views.MPChart.utils.MPPointF;
-import com.zx.zxutils.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.animation.Easing;
+import demo.smart.access.xutlis.views.MPChart.components.Legend;
+import demo.smart.access.xutlis.views.MPChart.components.XAxis;
+import demo.smart.access.xutlis.views.MPChart.data.ChartData;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IDataSet;
+import demo.smart.access.xutlis.views.MPChart.listener.PieRadarChartTouchListener;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointF;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
 
 /**
  * Baseclass of PieChart and RadarChart.

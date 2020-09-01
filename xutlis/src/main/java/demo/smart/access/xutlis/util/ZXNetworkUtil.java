@@ -8,7 +8,7 @@ import android.net.NetworkInfo;
 import android.net.wifi.WifiManager;
 import android.telephony.TelephonyManager;
 
-import com.zx.zxutils.ZXApp;
+import demo.smart.access.xutlis.ZXApp;
 
 import java.lang.reflect.Method;
 import java.net.InetAddress;

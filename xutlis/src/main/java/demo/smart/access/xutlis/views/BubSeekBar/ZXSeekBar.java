@@ -34,17 +34,17 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.view.animation.LinearInterpolator;
 
-import com.zx.zxutils.R;
+import demo.smart.access.xutlis.R;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.math.BigDecimal;
 
-import static com.zx.zxutils.util.ZXSystemUtil.sp2px;
-import static com.zx.zxutils.views.BubSeekBar.BubbleUtils.dp2px;
-import static com.zx.zxutils.views.BubSeekBar.ZXSeekBar.TextPosition.BELOW_SECTION_MARK;
-import static com.zx.zxutils.views.BubSeekBar.ZXSeekBar.TextPosition.BOTTOM_SIDES;
-import static com.zx.zxutils.views.BubSeekBar.ZXSeekBar.TextPosition.SIDES;
+import static demo.smart.access.xutlis.util.ZXSystemUtil.sp2px;
+import static demo.smart.access.xutlis.views.BubSeekBar.BubbleUtils.dp2px;
+import static demo.smart.access.xutlis.views.BubSeekBar.ZXSeekBar.TextPosition.BELOW_SECTION_MARK;
+import static demo.smart.access.xutlis.views.BubSeekBar.ZXSeekBar.TextPosition.BOTTOM_SIDES;
+import static demo.smart.access.xutlis.views.BubSeekBar.ZXSeekBar.TextPosition.SIDES;
 
 /**
  * A beautiful and powerful Android custom seek bar, which has a bubble view with progress

@@ -5,18 +5,18 @@ import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.drawable.Drawable;
 
-import com.zx.zxutils.views.MPChart.animation.ChartAnimator;
-import com.zx.zxutils.views.MPChart.data.CandleData;
-import com.zx.zxutils.views.MPChart.data.CandleEntry;
-import com.zx.zxutils.views.MPChart.highlight.Highlight;
-import com.zx.zxutils.views.MPChart.interfaces.dataprovider.CandleDataProvider;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.ICandleDataSet;
-import com.zx.zxutils.views.MPChart.utils.ColorTemplate;
-import com.zx.zxutils.views.MPChart.utils.MPPointD;
-import com.zx.zxutils.views.MPChart.utils.MPPointF;
-import com.zx.zxutils.views.MPChart.utils.Transformer;
-import com.zx.zxutils.views.MPChart.utils.Utils;
-import com.zx.zxutils.views.MPChart.utils.ViewPortHandler;
+import demo.smart.access.xutlis.views.MPChart.animation.ChartAnimator;
+import demo.smart.access.xutlis.views.MPChart.data.CandleData;
+import demo.smart.access.xutlis.views.MPChart.data.CandleEntry;
+import demo.smart.access.xutlis.views.MPChart.highlight.Highlight;
+import demo.smart.access.xutlis.views.MPChart.interfaces.dataprovider.CandleDataProvider;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.ICandleDataSet;
+import demo.smart.access.xutlis.views.MPChart.utils.ColorTemplate;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointD;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointF;
+import demo.smart.access.xutlis.views.MPChart.utils.Transformer;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.utils.ViewPortHandler;
 
 import java.util.List;
 

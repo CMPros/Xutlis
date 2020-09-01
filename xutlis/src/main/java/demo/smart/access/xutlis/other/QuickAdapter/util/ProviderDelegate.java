@@ -2,7 +2,7 @@ package demo.smart.access.xutlis.other.QuickAdapter.util;
 
 import android.util.SparseArray;
 
-import com.zx.zxutils.other.QuickAdapter.provider.BaseItemProvider;
+import demo.smart.access.xutlis.other.QuickAdapter.provider.BaseItemProvider;
 
 
 /**

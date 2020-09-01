@@ -2,9 +2,9 @@ package demo.smart.access.xutlis.views.MPChart.components;
 
 import android.graphics.Canvas;
 
-import com.zx.zxutils.views.MPChart.data.Entry;
-import com.zx.zxutils.views.MPChart.highlight.Highlight;
-import com.zx.zxutils.views.MPChart.utils.MPPointF;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.highlight.Highlight;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointF;
 
 public interface IMarker {
 

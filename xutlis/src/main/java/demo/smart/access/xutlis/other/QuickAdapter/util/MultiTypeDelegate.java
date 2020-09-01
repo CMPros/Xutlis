@@ -5,7 +5,7 @@ import android.util.SparseIntArray;
 
 import java.util.List;
 
-import static com.zx.zxutils.other.QuickAdapter.ZXMultiItemQuickAdapter.TYPE_NOT_FOUND;
+import static demo.smart.access.xutlis.other.QuickAdapter.ZXMultiItemQuickAdapter.TYPE_NOT_FOUND;
 
 
 /**

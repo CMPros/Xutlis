@@ -4,9 +4,9 @@ package demo.smart.access.xutlis.views.MPChart.charts;
 import android.content.Context;
 import android.util.AttributeSet;
 
-import com.zx.zxutils.views.MPChart.data.BubbleData;
-import com.zx.zxutils.views.MPChart.interfaces.dataprovider.BubbleDataProvider;
-import com.zx.zxutils.views.MPChart.renderer.BubbleChartRenderer;
+import demo.smart.access.xutlis.views.MPChart.data.BubbleData;
+import demo.smart.access.xutlis.views.MPChart.interfaces.dataprovider.BubbleDataProvider;
+import demo.smart.access.xutlis.views.MPChart.renderer.BubbleChartRenderer;
 
 /**
  * The BubbleChart. Draws bubbles. Bubble chart implementation: Copyright 2015

@@ -11,7 +11,7 @@ import android.widget.ImageView;
 
 import com.bumptech.glide.RequestManager;
 import com.bumptech.glide.request.RequestOptions;
-import com.zx.zxutils.R;
+import demo.smart.access.xutlis.R;
 
 import java.io.File;
 import java.util.ArrayList;

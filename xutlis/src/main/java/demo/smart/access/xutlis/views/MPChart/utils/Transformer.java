@@ -5,12 +5,12 @@ import android.graphics.Matrix;
 import android.graphics.Path;
 import android.graphics.RectF;
 
-import com.zx.zxutils.views.MPChart.data.CandleEntry;
-import com.zx.zxutils.views.MPChart.data.Entry;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IBubbleDataSet;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.ICandleDataSet;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.ILineDataSet;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IScatterDataSet;
+import demo.smart.access.xutlis.views.MPChart.data.CandleEntry;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IBubbleDataSet;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.ICandleDataSet;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.ILineDataSet;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IScatterDataSet;
 
 import java.util.List;
 

@@ -3,8 +3,8 @@ package demo.smart.access.xutlis.views.BubSeekBar;
 import android.support.annotation.ColorInt;
 import android.support.annotation.IntRange;
 
-import static com.zx.zxutils.views.BubSeekBar.BubbleUtils.dp2px;
-import static com.zx.zxutils.views.BubSeekBar.BubbleUtils.sp2px;
+import static demo.smart.access.xutlis.views.BubSeekBar.BubbleUtils.dp2px;
+import static demo.smart.access.xutlis.views.BubSeekBar.BubbleUtils.sp2px;
 
 
 /**

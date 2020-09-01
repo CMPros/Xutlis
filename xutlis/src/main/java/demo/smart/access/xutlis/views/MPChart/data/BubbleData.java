@@ -1,7 +1,7 @@
 
 package demo.smart.access.xutlis.views.MPChart.data;
 
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IBubbleDataSet;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IBubbleDataSet;
 
 import java.util.List;
 

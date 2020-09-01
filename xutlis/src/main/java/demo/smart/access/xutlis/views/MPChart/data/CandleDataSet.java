@@ -3,9 +3,9 @@ package demo.smart.access.xutlis.views.MPChart.data;
 
 import android.graphics.Paint;
 
-import com.zx.zxutils.views.MPChart.interfaces.datasets.ICandleDataSet;
-import com.zx.zxutils.views.MPChart.utils.ColorTemplate;
-import com.zx.zxutils.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.ICandleDataSet;
+import demo.smart.access.xutlis.views.MPChart.utils.ColorTemplate;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
 
 import java.util.ArrayList;
 import java.util.List;

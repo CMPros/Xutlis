@@ -19,8 +19,8 @@ import android.view.VelocityTracker;
 import android.view.View;
 import android.view.ViewConfiguration;
 
-import com.zx.zxutils.views.MPChart.formatter.DefaultValueFormatter;
-import com.zx.zxutils.views.MPChart.formatter.IValueFormatter;
+import demo.smart.access.xutlis.views.MPChart.formatter.DefaultValueFormatter;
+import demo.smart.access.xutlis.views.MPChart.formatter.IValueFormatter;
 
 import java.util.List;
 

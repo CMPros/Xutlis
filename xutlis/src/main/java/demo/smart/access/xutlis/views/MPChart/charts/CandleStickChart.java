@@ -4,9 +4,9 @@ package demo.smart.access.xutlis.views.MPChart.charts;
 import android.content.Context;
 import android.util.AttributeSet;
 
-import com.zx.zxutils.views.MPChart.data.CandleData;
-import com.zx.zxutils.views.MPChart.interfaces.dataprovider.CandleDataProvider;
-import com.zx.zxutils.views.MPChart.renderer.CandleStickChartRenderer;
+import demo.smart.access.xutlis.views.MPChart.data.CandleData;
+import demo.smart.access.xutlis.views.MPChart.interfaces.dataprovider.CandleDataProvider;
+import demo.smart.access.xutlis.views.MPChart.renderer.CandleStickChartRenderer;
 
 /**
  * Financial chart type that draws candle-sticks (OHCL chart).

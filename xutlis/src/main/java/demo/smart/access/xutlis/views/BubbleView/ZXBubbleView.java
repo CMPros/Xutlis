@@ -10,8 +10,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.PopupWindow;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.util.ZXScreenUtil;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.util.ZXScreenUtil;
 
 /**
  * Create By Xiangb On 2017/6/30

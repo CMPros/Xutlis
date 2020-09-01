@@ -4,7 +4,7 @@ import android.content.Context;
 import android.provider.Settings;
 import android.telephony.TelephonyManager;
 
-import com.zx.zxutils.ZXApp;
+import demo.smart.access.xutlis.ZXApp;
 
 import java.util.UUID;
 

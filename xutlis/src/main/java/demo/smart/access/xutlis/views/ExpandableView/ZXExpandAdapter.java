@@ -10,8 +10,8 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.util.ZXSystemUtil;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.util.ZXSystemUtil;
 
 import java.util.List;
 

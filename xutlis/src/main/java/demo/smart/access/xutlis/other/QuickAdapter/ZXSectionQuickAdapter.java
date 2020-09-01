@@ -3,7 +3,7 @@ package demo.smart.access.xutlis.other.QuickAdapter;
 import android.support.annotation.NonNull;
 import android.view.ViewGroup;
 
-import com.zx.zxutils.other.QuickAdapter.entity.SectionEntity;
+import demo.smart.access.xutlis.other.QuickAdapter.entity.SectionEntity;
 
 import java.util.List;
 

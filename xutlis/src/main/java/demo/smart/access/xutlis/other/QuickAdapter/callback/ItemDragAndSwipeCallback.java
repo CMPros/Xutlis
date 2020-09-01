@@ -6,11 +6,11 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.helper.ItemTouchHelper;
 import android.view.View;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.other.QuickAdapter.DraggableController;
-import com.zx.zxutils.other.QuickAdapter.ZXItemDraggableAdapter;
-import com.zx.zxutils.other.QuickAdapter.ZXQuickAdapter;
-import com.zx.zxutils.other.QuickAdapter.listener.IDraggableListener;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.other.QuickAdapter.DraggableController;
+import demo.smart.access.xutlis.other.QuickAdapter.ZXItemDraggableAdapter;
+import demo.smart.access.xutlis.other.QuickAdapter.ZXQuickAdapter;
+import demo.smart.access.xutlis.other.QuickAdapter.listener.IDraggableListener;
 
 
 /**

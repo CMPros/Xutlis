@@ -1,7 +1,7 @@
 
 package demo.smart.access.xutlis.views.MPChart.highlight;
 
-import com.zx.zxutils.views.MPChart.components.YAxis;
+import demo.smart.access.xutlis.views.MPChart.components.YAxis;
 
 /**
  * Contains information needed to determine the highlighted value.

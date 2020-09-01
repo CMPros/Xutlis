@@ -1,7 +1,7 @@
 package demo.smart.access.xutlis.views.MPChart.interfaces.datasets;
 
-import com.zx.zxutils.views.MPChart.data.Entry;
-import com.zx.zxutils.views.MPChart.renderer.scatter.IShapeRenderer;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.renderer.scatter.IShapeRenderer;
 
 /**
  * Created by philipp on 21/10/15.

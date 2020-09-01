@@ -3,8 +3,8 @@ package demo.smart.access.xutlis.views.MPChart.data;
 
 import android.graphics.Color;
 
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IRadarDataSet;
-import com.zx.zxutils.views.MPChart.utils.ColorTemplate;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IRadarDataSet;
+import demo.smart.access.xutlis.views.MPChart.utils.ColorTemplate;
 
 import java.util.ArrayList;
 import java.util.List;

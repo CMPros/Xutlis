@@ -2,7 +2,7 @@ package demo.smart.access.xutlis.other.QuickAdapter.listener;
 
 import android.view.View;
 
-import com.zx.zxutils.other.QuickAdapter.ZXQuickAdapter;
+import demo.smart.access.xutlis.other.QuickAdapter.ZXQuickAdapter;
 
 /**
  * create by: allen on 16/8/3.

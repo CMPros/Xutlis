@@ -7,9 +7,9 @@ import android.util.SparseArray;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.zx.zxutils.other.QuickAdapter.provider.BaseItemProvider;
-import com.zx.zxutils.other.QuickAdapter.util.MultiTypeDelegate;
-import com.zx.zxutils.other.QuickAdapter.util.ProviderDelegate;
+import demo.smart.access.xutlis.other.QuickAdapter.provider.BaseItemProvider;
+import demo.smart.access.xutlis.other.QuickAdapter.util.MultiTypeDelegate;
+import demo.smart.access.xutlis.other.QuickAdapter.util.ProviderDelegate;
 
 import java.util.List;
 

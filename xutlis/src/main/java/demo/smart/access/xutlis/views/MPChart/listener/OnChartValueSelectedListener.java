@@ -1,7 +1,7 @@
 package demo.smart.access.xutlis.views.MPChart.listener;
 
-import com.zx.zxutils.views.MPChart.data.Entry;
-import com.zx.zxutils.views.MPChart.highlight.Highlight;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.highlight.Highlight;
 
 /**
  * Listener for callbacks when selecting values inside the chart by

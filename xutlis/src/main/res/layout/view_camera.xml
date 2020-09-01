@@ -48,25 +48,25 @@
     </LinearLayout>
 
 
-    <com.zx.zxutils.views.CameraView.CaptureLayout
+    <demo.smart.access.xutlis.views.CameraView.CaptureLayout
         android:id="@+id/capture_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"/>
 
-    <com.zx.zxutils.views.CameraView.FoucsView
+    <demo.smart.access.xutlis.views.CameraView.FoucsView
         android:id="@+id/fouce_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:visibility="invisible"/>
 
-    <com.zx.zxutils.views.CameraView.AlbumView
+    <demo.smart.access.xutlis.views.CameraView.AlbumView
         android:id="@+id/album_view"
         android:background="@color/white"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:visibility="gone">
 
-    </com.zx.zxutils.views.CameraView.AlbumView>
+    </demo.smart.access.xutlis.views.CameraView.AlbumView>
 </FrameLayout>

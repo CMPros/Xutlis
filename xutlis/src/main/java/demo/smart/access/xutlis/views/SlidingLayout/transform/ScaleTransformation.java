@@ -2,7 +2,7 @@ package demo.smart.access.xutlis.views.SlidingLayout.transform;
 
 import android.view.View;
 
-import com.zx.zxutils.views.SlidingLayout.util.SideNavUtils;
+import demo.smart.access.xutlis.views.SlidingLayout.util.SideNavUtils;
 
 
 /**

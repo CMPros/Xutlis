@@ -7,7 +7,7 @@
     <!--android:fillViewport="true"-->
     <!--&gt;-->
 
-  <com.zx.zxutils.views.PhotoPicker.widget.TouchImageView
+  <demo.smart.access.xutlis.views.PhotoPicker.widget.TouchImageView
       xmlns:android="http://schemas.android.com/apk/res/android"
       android:gravity="center"
       android:layout_width="match_parent"

@@ -6,11 +6,11 @@ import android.graphics.Rect;
 import android.graphics.drawable.Drawable;
 import android.os.Build;
 
-import com.zx.zxutils.views.MPChart.charts.Chart;
-import com.zx.zxutils.views.MPChart.data.Entry;
-import com.zx.zxutils.views.MPChart.highlight.Highlight;
-import com.zx.zxutils.views.MPChart.utils.FSize;
-import com.zx.zxutils.views.MPChart.utils.MPPointF;
+import demo.smart.access.xutlis.views.MPChart.charts.Chart;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.highlight.Highlight;
+import demo.smart.access.xutlis.views.MPChart.utils.FSize;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointF;
 
 import java.lang.ref.WeakReference;
 

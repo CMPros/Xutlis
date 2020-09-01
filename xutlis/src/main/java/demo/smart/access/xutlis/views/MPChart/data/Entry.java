@@ -6,7 +6,7 @@ import android.os.Parcel;
 import android.os.ParcelFormatException;
 import android.os.Parcelable;
 
-import com.zx.zxutils.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
 
 /**
  * Class representing one entry in the chart. Might contain multiple values.

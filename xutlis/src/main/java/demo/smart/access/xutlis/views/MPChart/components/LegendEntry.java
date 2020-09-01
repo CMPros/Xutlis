@@ -3,7 +3,7 @@ package demo.smart.access.xutlis.views.MPChart.components;
 
 import android.graphics.DashPathEffect;
 
-import com.zx.zxutils.views.MPChart.utils.ColorTemplate;
+import demo.smart.access.xutlis.views.MPChart.utils.ColorTemplate;
 
 public class LegendEntry {
     public LegendEntry() {

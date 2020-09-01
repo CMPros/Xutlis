@@ -2,8 +2,8 @@ package demo.smart.access.xutlis.views.MPChart.data;
 
 import android.graphics.DashPathEffect;
 
-import com.zx.zxutils.views.MPChart.interfaces.datasets.ILineScatterCandleRadarDataSet;
-import com.zx.zxutils.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.ILineScatterCandleRadarDataSet;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
 
 import java.util.List;
 

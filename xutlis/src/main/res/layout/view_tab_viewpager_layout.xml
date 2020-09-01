@@ -17,7 +17,7 @@
         android:visibility="gone"
         android:background="@color/light_gray"/>
 
-    <com.zx.zxutils.views.ZXNoScrllViewPager
+    <demo.smart.access.xutlis.views.ZXNoScrllViewPager
         android:id="@+id/_vp_zx_pager"
         android:layout_width="fill_parent"
         android:layout_height="0dp"

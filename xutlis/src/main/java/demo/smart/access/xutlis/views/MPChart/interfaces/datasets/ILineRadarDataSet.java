@@ -2,7 +2,7 @@ package demo.smart.access.xutlis.views.MPChart.interfaces.datasets;
 
 import android.graphics.drawable.Drawable;
 
-import com.zx.zxutils.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
 
 /**
  * Created by Philipp Jahoda on 21/10/15.

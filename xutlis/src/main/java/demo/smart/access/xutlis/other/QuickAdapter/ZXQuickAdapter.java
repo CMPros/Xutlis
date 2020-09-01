@@ -38,17 +38,17 @@ import android.view.animation.LinearInterpolator;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 
-import com.zx.zxutils.other.QuickAdapter.animation.AlphaInAnimation;
-import com.zx.zxutils.other.QuickAdapter.animation.BaseAnimation;
-import com.zx.zxutils.other.QuickAdapter.animation.ScaleInAnimation;
-import com.zx.zxutils.other.QuickAdapter.animation.SlideInBottomAnimation;
-import com.zx.zxutils.other.QuickAdapter.animation.SlideInLeftAnimation;
-import com.zx.zxutils.other.QuickAdapter.animation.SlideInRightAnimation;
-import com.zx.zxutils.other.QuickAdapter.diff.BaseQuickAdapterListUpdateCallback;
-import com.zx.zxutils.other.QuickAdapter.diff.BaseQuickDiffCallback;
-import com.zx.zxutils.other.QuickAdapter.entity.IExpandable;
-import com.zx.zxutils.other.QuickAdapter.loadmore.LoadMoreView;
-import com.zx.zxutils.other.QuickAdapter.loadmore.SimpleLoadMoreView;
+import demo.smart.access.xutlis.other.QuickAdapter.animation.AlphaInAnimation;
+import demo.smart.access.xutlis.other.QuickAdapter.animation.BaseAnimation;
+import demo.smart.access.xutlis.other.QuickAdapter.animation.ScaleInAnimation;
+import demo.smart.access.xutlis.other.QuickAdapter.animation.SlideInBottomAnimation;
+import demo.smart.access.xutlis.other.QuickAdapter.animation.SlideInLeftAnimation;
+import demo.smart.access.xutlis.other.QuickAdapter.animation.SlideInRightAnimation;
+import demo.smart.access.xutlis.other.QuickAdapter.diff.BaseQuickAdapterListUpdateCallback;
+import demo.smart.access.xutlis.other.QuickAdapter.diff.BaseQuickDiffCallback;
+import demo.smart.access.xutlis.other.QuickAdapter.entity.IExpandable;
+import demo.smart.access.xutlis.other.QuickAdapter.loadmore.LoadMoreView;
+import demo.smart.access.xutlis.other.QuickAdapter.loadmore.SimpleLoadMoreView;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

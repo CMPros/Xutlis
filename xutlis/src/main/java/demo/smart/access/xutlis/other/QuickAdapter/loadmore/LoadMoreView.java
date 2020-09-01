@@ -3,7 +3,7 @@ package demo.smart.access.xutlis.other.QuickAdapter.loadmore;
 import android.support.annotation.IdRes;
 import android.support.annotation.LayoutRes;
 
-import com.zx.zxutils.other.QuickAdapter.ZXBaseHolder;
+import demo.smart.access.xutlis.other.QuickAdapter.ZXBaseHolder;
 
 
 /**
@@ -85,7 +85,7 @@ public abstract class LoadMoreView {
      * No more data is hidden
      *
      * @return true for no more data hidden load more
-     * @deprecated Use {@link com.zx.zxutils.other.QuickAdapter.ZXQuickAdapter#loadMoreEnd(boolean)} instead.
+     * @deprecated Use {@link demo.smart.access.xutlis.other.QuickAdapter.ZXQuickAdapter#loadMoreEnd(boolean)} instead.
      */
     @Deprecated
     public boolean isLoadEndGone() {

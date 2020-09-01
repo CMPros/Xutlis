@@ -1,9 +1,9 @@
 
 package demo.smart.access.xutlis.views.MPChart.formatter;
 
-import com.zx.zxutils.views.MPChart.components.AxisBase;
-import com.zx.zxutils.views.MPChart.data.Entry;
-import com.zx.zxutils.views.MPChart.utils.ViewPortHandler;
+import demo.smart.access.xutlis.views.MPChart.components.AxisBase;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.utils.ViewPortHandler;
 
 import java.text.DecimalFormat;
 

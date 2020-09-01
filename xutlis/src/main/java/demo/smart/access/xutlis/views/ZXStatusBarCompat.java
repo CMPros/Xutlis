@@ -10,9 +10,9 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.zx.zxutils.ZXApp;
-import com.zx.zxutils.util.ZXDeviceUtil;
-import com.zx.zxutils.util.ZXSystemUtil;
+import demo.smart.access.xutlis.ZXApp;
+import demo.smart.access.xutlis.util.ZXDeviceUtil;
+import demo.smart.access.xutlis.util.ZXSystemUtil;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

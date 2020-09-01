@@ -12,13 +12,13 @@ import android.os.CountDownTimer;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.zx.zxutils.util.ZXLogUtil;
-import com.zx.zxutils.views.CameraView.listener.CaptureListener;
-import com.zx.zxutils.views.CameraView.util.CheckPermission;
+import demo.smart.access.xutlis.util.ZXLogUtil;
+import demo.smart.access.xutlis.views.CameraView.listener.CaptureListener;
+import demo.smart.access.xutlis.views.CameraView.util.CheckPermission;
 
-import static com.zx.zxutils.views.CameraView.ZXCameraView.BUTTON_STATE_BOTH;
-import static com.zx.zxutils.views.CameraView.ZXCameraView.BUTTON_STATE_ONLY_CAPTURE;
-import static com.zx.zxutils.views.CameraView.ZXCameraView.BUTTON_STATE_ONLY_RECORDER;
+import static demo.smart.access.xutlis.views.CameraView.ZXCameraView.BUTTON_STATE_BOTH;
+import static demo.smart.access.xutlis.views.CameraView.ZXCameraView.BUTTON_STATE_ONLY_CAPTURE;
+import static demo.smart.access.xutlis.views.CameraView.ZXCameraView.BUTTON_STATE_ONLY_RECORDER;
 
 
 /**

@@ -11,17 +11,17 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.views.SlidingLayout.callback.DragListener;
-import com.zx.zxutils.views.SlidingLayout.callback.DragStateListener;
-import com.zx.zxutils.views.SlidingLayout.transform.CompositeTransformation;
-import com.zx.zxutils.views.SlidingLayout.transform.ElevationTransformation;
-import com.zx.zxutils.views.SlidingLayout.transform.RootTransformation;
-import com.zx.zxutils.views.SlidingLayout.transform.ScaleTransformation;
-import com.zx.zxutils.views.SlidingLayout.transform.YTranslationTransformation;
-import com.zx.zxutils.views.SlidingLayout.util.ActionBarToggleAdapter;
-import com.zx.zxutils.views.SlidingLayout.util.DrawerListenerAdapter;
-import com.zx.zxutils.views.SlidingLayout.util.HiddenMenuClickConsumer;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.views.SlidingLayout.callback.DragListener;
+import demo.smart.access.xutlis.views.SlidingLayout.callback.DragStateListener;
+import demo.smart.access.xutlis.views.SlidingLayout.transform.CompositeTransformation;
+import demo.smart.access.xutlis.views.SlidingLayout.transform.ElevationTransformation;
+import demo.smart.access.xutlis.views.SlidingLayout.transform.RootTransformation;
+import demo.smart.access.xutlis.views.SlidingLayout.transform.ScaleTransformation;
+import demo.smart.access.xutlis.views.SlidingLayout.transform.YTranslationTransformation;
+import demo.smart.access.xutlis.views.SlidingLayout.util.ActionBarToggleAdapter;
+import demo.smart.access.xutlis.views.SlidingLayout.util.DrawerListenerAdapter;
+import demo.smart.access.xutlis.views.SlidingLayout.util.HiddenMenuClickConsumer;
 
 import java.util.ArrayList;
 import java.util.Arrays;

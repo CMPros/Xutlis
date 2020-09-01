@@ -15,10 +15,10 @@ import android.view.View;
 import android.widget.LinearLayout;
 
 import com.bumptech.glide.Glide;
-import com.zx.zxutils.R;
-import com.zx.zxutils.views.PhotoPicker.entity.PhotoDirectory;
-import com.zx.zxutils.views.PhotoPicker.event.OnPhotoClickListener;
-import com.zx.zxutils.views.PhotoPicker.utils.MediaStoreHelper;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.views.PhotoPicker.entity.PhotoDirectory;
+import demo.smart.access.xutlis.views.PhotoPicker.event.OnPhotoClickListener;
+import demo.smart.access.xutlis.views.PhotoPicker.utils.MediaStoreHelper;
 
 import java.util.ArrayList;
 import java.util.List;

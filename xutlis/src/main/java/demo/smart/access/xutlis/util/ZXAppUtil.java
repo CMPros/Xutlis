@@ -7,7 +7,7 @@ import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 
-import com.zx.zxutils.ZXApp;
+import demo.smart.access.xutlis.ZXApp;
 
 import java.io.File;
 import java.util.List;

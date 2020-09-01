@@ -18,15 +18,15 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.listener.ZXRecordListener;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.listener.ZXRecordListener;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import static com.zx.zxutils.ZXApp.getContext;
+import static demo.smart.access.xutlis.ZXApp.getContext;
 
 /**
  * Created by Xiangb on 2017/7/28.

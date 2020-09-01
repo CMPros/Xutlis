@@ -21,17 +21,17 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.VideoView;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.util.ZXFileUtil;
-import com.zx.zxutils.util.ZXLogUtil;
-import com.zx.zxutils.util.ZXScreenUtil;
-import com.zx.zxutils.util.ZXSystemUtil;
-import com.zx.zxutils.views.CameraView.listener.BtnClickListener;
-import com.zx.zxutils.views.CameraView.listener.CameraListener;
-import com.zx.zxutils.views.CameraView.listener.CaptureListener;
-import com.zx.zxutils.views.CameraView.listener.TypeListener;
-import com.zx.zxutils.views.CameraView.state.CameraMachine;
-import com.zx.zxutils.views.CameraView.view.CameraView;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.util.ZXFileUtil;
+import demo.smart.access.xutlis.util.ZXLogUtil;
+import demo.smart.access.xutlis.util.ZXScreenUtil;
+import demo.smart.access.xutlis.util.ZXSystemUtil;
+import demo.smart.access.xutlis.views.CameraView.listener.BtnClickListener;
+import demo.smart.access.xutlis.views.CameraView.listener.CameraListener;
+import demo.smart.access.xutlis.views.CameraView.listener.CaptureListener;
+import demo.smart.access.xutlis.views.CameraView.listener.TypeListener;
+import demo.smart.access.xutlis.views.CameraView.state.CameraMachine;
+import demo.smart.access.xutlis.views.CameraView.view.CameraView;
 
 import java.io.IOException;
 

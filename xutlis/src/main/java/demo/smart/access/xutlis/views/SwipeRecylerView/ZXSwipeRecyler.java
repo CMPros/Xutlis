@@ -11,12 +11,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.LinearLayout;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.other.QuickAdapter.ZXQuickAdapter;
-import com.zx.zxutils.other.ZXItemClickSupport;
-import com.zx.zxutils.other.ZXRecyclerAdapter.ZXRecycleAdapter;
-import com.zx.zxutils.other.ZXRecyclerAdapter.ZXRecycleSimpleAdapter;
-import com.zx.zxutils.other.ZXRecyclerAdapter.ZXRecyclerQuickAdapter;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.other.QuickAdapter.ZXQuickAdapter;
+import demo.smart.access.xutlis.other.ZXItemClickSupport;
+import demo.smart.access.xutlis.other.ZXRecyclerAdapter.ZXRecycleAdapter;
+import demo.smart.access.xutlis.other.ZXRecyclerAdapter.ZXRecycleSimpleAdapter;
+import demo.smart.access.xutlis.other.ZXRecyclerAdapter.ZXRecyclerQuickAdapter;
 
 import java.util.List;
 

@@ -1,12 +1,12 @@
 package demo.smart.access.xutlis.views.MPChart.renderer;
 
-import com.zx.zxutils.views.MPChart.animation.ChartAnimator;
-import com.zx.zxutils.views.MPChart.data.DataSet;
-import com.zx.zxutils.views.MPChart.data.Entry;
-import com.zx.zxutils.views.MPChart.interfaces.dataprovider.BarLineScatterCandleBubbleDataProvider;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IBarLineScatterCandleBubbleDataSet;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IDataSet;
-import com.zx.zxutils.views.MPChart.utils.ViewPortHandler;
+import demo.smart.access.xutlis.views.MPChart.animation.ChartAnimator;
+import demo.smart.access.xutlis.views.MPChart.data.DataSet;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.interfaces.dataprovider.BarLineScatterCandleBubbleDataProvider;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IBarLineScatterCandleBubbleDataSet;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IDataSet;
+import demo.smart.access.xutlis.views.MPChart.utils.ViewPortHandler;
 
 /**
  * Created by Philipp Jahoda on 09/06/16.

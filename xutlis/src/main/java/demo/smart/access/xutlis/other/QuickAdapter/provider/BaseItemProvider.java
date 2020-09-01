@@ -3,7 +3,7 @@ package demo.smart.access.xutlis.other.QuickAdapter.provider;
 import android.content.Context;
 import android.support.annotation.NonNull;
 
-import com.zx.zxutils.other.QuickAdapter.ZXBaseHolder;
+import demo.smart.access.xutlis.other.QuickAdapter.ZXBaseHolder;
 
 import java.util.List;
 

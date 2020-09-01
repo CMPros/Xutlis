@@ -14,27 +14,27 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.MotionEvent;
 
-import com.zx.zxutils.views.MPChart.components.XAxis.XAxisPosition;
-import com.zx.zxutils.views.MPChart.components.YAxis;
-import com.zx.zxutils.views.MPChart.components.YAxis.AxisDependency;
-import com.zx.zxutils.views.MPChart.data.BarLineScatterCandleBubbleData;
-import com.zx.zxutils.views.MPChart.data.Entry;
-import com.zx.zxutils.views.MPChart.highlight.ChartHighlighter;
-import com.zx.zxutils.views.MPChart.highlight.Highlight;
-import com.zx.zxutils.views.MPChart.interfaces.dataprovider.BarLineScatterCandleBubbleDataProvider;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IBarLineScatterCandleBubbleDataSet;
-import com.zx.zxutils.views.MPChart.jobs.AnimatedMoveViewJob;
-import com.zx.zxutils.views.MPChart.jobs.AnimatedZoomJob;
-import com.zx.zxutils.views.MPChart.jobs.MoveViewJob;
-import com.zx.zxutils.views.MPChart.jobs.ZoomJob;
-import com.zx.zxutils.views.MPChart.listener.BarLineChartTouchListener;
-import com.zx.zxutils.views.MPChart.listener.OnDrawListener;
-import com.zx.zxutils.views.MPChart.renderer.XAxisRenderer;
-import com.zx.zxutils.views.MPChart.renderer.YAxisRenderer;
-import com.zx.zxutils.views.MPChart.utils.MPPointD;
-import com.zx.zxutils.views.MPChart.utils.MPPointF;
-import com.zx.zxutils.views.MPChart.utils.Transformer;
-import com.zx.zxutils.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.components.XAxis.XAxisPosition;
+import demo.smart.access.xutlis.views.MPChart.components.YAxis;
+import demo.smart.access.xutlis.views.MPChart.components.YAxis.AxisDependency;
+import demo.smart.access.xutlis.views.MPChart.data.BarLineScatterCandleBubbleData;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.highlight.ChartHighlighter;
+import demo.smart.access.xutlis.views.MPChart.highlight.Highlight;
+import demo.smart.access.xutlis.views.MPChart.interfaces.dataprovider.BarLineScatterCandleBubbleDataProvider;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IBarLineScatterCandleBubbleDataSet;
+import demo.smart.access.xutlis.views.MPChart.jobs.AnimatedMoveViewJob;
+import demo.smart.access.xutlis.views.MPChart.jobs.AnimatedZoomJob;
+import demo.smart.access.xutlis.views.MPChart.jobs.MoveViewJob;
+import demo.smart.access.xutlis.views.MPChart.jobs.ZoomJob;
+import demo.smart.access.xutlis.views.MPChart.listener.BarLineChartTouchListener;
+import demo.smart.access.xutlis.views.MPChart.listener.OnDrawListener;
+import demo.smart.access.xutlis.views.MPChart.renderer.XAxisRenderer;
+import demo.smart.access.xutlis.views.MPChart.renderer.YAxisRenderer;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointD;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointF;
+import demo.smart.access.xutlis.views.MPChart.utils.Transformer;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
 
 /**
  * Base-class of LineChart, BarChart, ScatterChart and CandleStickChart.

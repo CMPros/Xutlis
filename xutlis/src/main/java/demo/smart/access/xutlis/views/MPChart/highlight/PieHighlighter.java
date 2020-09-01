@@ -1,8 +1,8 @@
 package demo.smart.access.xutlis.views.MPChart.highlight;
 
-import com.zx.zxutils.views.MPChart.charts.PieChart;
-import com.zx.zxutils.views.MPChart.data.Entry;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IPieDataSet;
+import demo.smart.access.xutlis.views.MPChart.charts.PieChart;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IPieDataSet;
 
 /**
  * Created by philipp on 12/06/16.

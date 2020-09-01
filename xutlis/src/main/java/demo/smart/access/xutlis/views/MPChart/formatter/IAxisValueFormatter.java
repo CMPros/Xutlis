@@ -1,6 +1,6 @@
 package demo.smart.access.xutlis.views.MPChart.formatter;
 
-import com.zx.zxutils.views.MPChart.components.AxisBase;
+import demo.smart.access.xutlis.views.MPChart.components.AxisBase;
 
 /**
  * Created by Philipp Jahoda on 20/09/15.

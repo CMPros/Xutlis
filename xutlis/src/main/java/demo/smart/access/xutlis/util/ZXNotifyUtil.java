@@ -13,7 +13,7 @@ import android.os.Build;
 import android.support.v4.app.NotificationCompat;
 import android.widget.RemoteViews;
 
-import com.zx.zxutils.ZXApp;
+import demo.smart.access.xutlis.ZXApp;
 
 /**
  * Created by Xiangb on 2017/3/29.

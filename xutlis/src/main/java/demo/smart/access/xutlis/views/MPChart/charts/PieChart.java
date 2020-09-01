@@ -8,15 +8,15 @@ import android.graphics.RectF;
 import android.graphics.Typeface;
 import android.util.AttributeSet;
 
-import com.zx.zxutils.views.MPChart.ZXPieChart;
-import com.zx.zxutils.views.MPChart.components.XAxis;
-import com.zx.zxutils.views.MPChart.data.PieData;
-import com.zx.zxutils.views.MPChart.highlight.Highlight;
-import com.zx.zxutils.views.MPChart.highlight.PieHighlighter;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IPieDataSet;
-import com.zx.zxutils.views.MPChart.renderer.PieChartRenderer;
-import com.zx.zxutils.views.MPChart.utils.MPPointF;
-import com.zx.zxutils.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.ZXPieChart;
+import demo.smart.access.xutlis.views.MPChart.components.XAxis;
+import demo.smart.access.xutlis.views.MPChart.data.PieData;
+import demo.smart.access.xutlis.views.MPChart.highlight.Highlight;
+import demo.smart.access.xutlis.views.MPChart.highlight.PieHighlighter;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IPieDataSet;
+import demo.smart.access.xutlis.views.MPChart.renderer.PieChartRenderer;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointF;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
 
 import java.util.List;
 

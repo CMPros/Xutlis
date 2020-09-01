@@ -7,16 +7,16 @@ import android.graphics.Paint;
 import android.graphics.Path;
 import android.graphics.drawable.Drawable;
 
-import com.zx.zxutils.views.MPChart.animation.ChartAnimator;
-import com.zx.zxutils.views.MPChart.charts.RadarChart;
-import com.zx.zxutils.views.MPChart.data.RadarData;
-import com.zx.zxutils.views.MPChart.data.RadarEntry;
-import com.zx.zxutils.views.MPChart.highlight.Highlight;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IRadarDataSet;
-import com.zx.zxutils.views.MPChart.utils.ColorTemplate;
-import com.zx.zxutils.views.MPChart.utils.MPPointF;
-import com.zx.zxutils.views.MPChart.utils.Utils;
-import com.zx.zxutils.views.MPChart.utils.ViewPortHandler;
+import demo.smart.access.xutlis.views.MPChart.animation.ChartAnimator;
+import demo.smart.access.xutlis.views.MPChart.charts.RadarChart;
+import demo.smart.access.xutlis.views.MPChart.data.RadarData;
+import demo.smart.access.xutlis.views.MPChart.data.RadarEntry;
+import demo.smart.access.xutlis.views.MPChart.highlight.Highlight;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IRadarDataSet;
+import demo.smart.access.xutlis.views.MPChart.utils.ColorTemplate;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointF;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.utils.ViewPortHandler;
 
 public class RadarChartRenderer extends LineRadarRenderer {
 

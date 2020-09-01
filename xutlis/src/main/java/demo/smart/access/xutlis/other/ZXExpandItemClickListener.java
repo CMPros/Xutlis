@@ -1,6 +1,6 @@
 package demo.smart.access.xutlis.other;
 
-import com.zx.zxutils.views.ExpandableView.ZXExpandBean;
+import demo.smart.access.xutlis.views.ExpandableView.ZXExpandBean;
 
 /**
  * Created by Xiangb on 2017/12/5.

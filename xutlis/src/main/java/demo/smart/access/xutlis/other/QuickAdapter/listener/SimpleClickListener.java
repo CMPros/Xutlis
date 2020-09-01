@@ -8,15 +8,15 @@ import android.view.HapticFeedbackConstants;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.zx.zxutils.other.QuickAdapter.ZXBaseHolder;
-import com.zx.zxutils.other.QuickAdapter.ZXQuickAdapter;
+import demo.smart.access.xutlis.other.QuickAdapter.ZXBaseHolder;
+import demo.smart.access.xutlis.other.QuickAdapter.ZXQuickAdapter;
 
 import java.util.Set;
 
-import static com.zx.zxutils.other.QuickAdapter.ZXQuickAdapter.EMPTY_VIEW;
-import static com.zx.zxutils.other.QuickAdapter.ZXQuickAdapter.FOOTER_VIEW;
-import static com.zx.zxutils.other.QuickAdapter.ZXQuickAdapter.HEADER_VIEW;
-import static com.zx.zxutils.other.QuickAdapter.ZXQuickAdapter.LOADING_VIEW;
+import static demo.smart.access.xutlis.other.QuickAdapter.ZXQuickAdapter.EMPTY_VIEW;
+import static demo.smart.access.xutlis.other.QuickAdapter.ZXQuickAdapter.FOOTER_VIEW;
+import static demo.smart.access.xutlis.other.QuickAdapter.ZXQuickAdapter.HEADER_VIEW;
+import static demo.smart.access.xutlis.other.QuickAdapter.ZXQuickAdapter.LOADING_VIEW;
 
 /**
  * Created by AllenCoder on 2016/8/03.

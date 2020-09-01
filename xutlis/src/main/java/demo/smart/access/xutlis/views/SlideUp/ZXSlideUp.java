@@ -22,8 +22,8 @@ import static android.view.Gravity.START;
 import static android.view.Gravity.TOP;
 import static android.view.View.GONE;
 import static android.view.View.VISIBLE;
-import static com.zx.zxutils.views.SlideUp.ZXSlideUp.State.HIDDEN;
-import static com.zx.zxutils.views.SlideUp.ZXSlideUp.State.SHOWED;
+import static demo.smart.access.xutlis.views.SlideUp.ZXSlideUp.State.HIDDEN;
+import static demo.smart.access.xutlis.views.SlideUp.ZXSlideUp.State.SHOWED;
 
 public class ZXSlideUp implements View.OnTouchListener, ValueAnimator.AnimatorUpdateListener, Animator.AnimatorListener, LoggerNotifier {
     private final static String TAG = ZXSlideUp.class.getSimpleName();
@@ -162,10 +162,10 @@ public class ZXSlideUp implements View.OnTouchListener, ValueAnimator.AnimatorUp
 
     private void updateToCurrentState() {
         switch (mBuilder.mStartState) {
-            case State.HIDDEN:
+            case HIDDEN:
                 hideImmediately();
                 break;
-            case State.SHOWED:
+            case SHOWED:
                 showImmediately();
                 break;
         }
@@ -428,7 +428,7 @@ public class ZXSlideUp implements View.OnTouchListener, ValueAnimator.AnimatorUp
                         mBuilder.mSliderView.setTranslationY(-mViewHeight);
                         notifyPercentChanged(100);
                     } else {
-                        mBuilder.mStartState = State.HIDDEN;
+                        mBuilder.mStartState = HIDDEN;
                     }
                 } else {
                     mAnimationProcessor.setValuesAndStart(mBuilder.mSliderView.getTranslationY(), mBuilder.mSliderView.getHeight() - mBuilder.mStayArea);
@@ -440,7 +440,7 @@ public class ZXSlideUp implements View.OnTouchListener, ValueAnimator.AnimatorUp
                         mBuilder.mSliderView.setTranslationY(mViewHeight);
                         notifyPercentChanged(100);
                     } else {
-                        mBuilder.mStartState = State.HIDDEN;
+                        mBuilder.mStartState = HIDDEN;
                     }
                 } else {
                     mAnimationProcessor.setValuesAndStart(mBuilder.mSliderView.getTranslationY(), mBuilder.mSliderView.getHeight() - mBuilder.mStayArea);
@@ -452,7 +452,7 @@ public class ZXSlideUp implements View.OnTouchListener, ValueAnimator.AnimatorUp
                         mBuilder.mSliderView.setTranslationX(-mViewWidth);
                         notifyPercentChanged(100);
                     } else {
-                        mBuilder.mStartState = State.HIDDEN;
+                        mBuilder.mStartState = HIDDEN;
                     }
                 } else {
                     mAnimationProcessor.setValuesAndStart(mBuilder.mSliderView.getTranslationX(), mBuilder.mSliderView.getHeight() - mBuilder.mStayArea);
@@ -464,7 +464,7 @@ public class ZXSlideUp implements View.OnTouchListener, ValueAnimator.AnimatorUp
                         mBuilder.mSliderView.setTranslationX(mViewWidth);
                         notifyPercentChanged(100);
                     } else {
-                        mBuilder.mStartState = State.HIDDEN;
+                        mBuilder.mStartState = HIDDEN;
                     }
                 } else {
                     mAnimationProcessor.setValuesAndStart(mBuilder.mSliderView.getTranslationX(), mBuilder.mSliderView.getHeight() - mBuilder.mStayArea);
@@ -482,7 +482,7 @@ public class ZXSlideUp implements View.OnTouchListener, ValueAnimator.AnimatorUp
                         mBuilder.mSliderView.setTranslationY(0);
                         notifyPercentChanged(0);
                     } else {
-                        mBuilder.mStartState = State.SHOWED;
+                        mBuilder.mStartState = SHOWED;
                     }
                 } else {
                     mAnimationProcessor.setValuesAndStart(mBuilder.mSliderView.getTranslationY(), 0);
@@ -493,7 +493,7 @@ public class ZXSlideUp implements View.OnTouchListener, ValueAnimator.AnimatorUp
                         mBuilder.mSliderView.setTranslationY(0);
                         notifyPercentChanged(0);
                     } else {
-                        mBuilder.mStartState = State.SHOWED;
+                        mBuilder.mStartState = SHOWED;
                     }
                 } else {
                     mAnimationProcessor.setValuesAndStart(mBuilder.mSliderView.getTranslationY(), 0);
@@ -505,7 +505,7 @@ public class ZXSlideUp implements View.OnTouchListener, ValueAnimator.AnimatorUp
                         mBuilder.mSliderView.setTranslationX(0);
                         notifyPercentChanged(0);
                     } else {
-                        mBuilder.mStartState = State.SHOWED;
+                        mBuilder.mStartState = SHOWED;
                     }
                 } else {
                     mAnimationProcessor.setValuesAndStart(mBuilder.mSliderView.getTranslationX(), 0);
@@ -516,7 +516,7 @@ public class ZXSlideUp implements View.OnTouchListener, ValueAnimator.AnimatorUp
                         mBuilder.mSliderView.setTranslationX(0);
                         notifyPercentChanged(0);
                     } else {
-                        mBuilder.mStartState = State.SHOWED;
+                        mBuilder.mStartState = SHOWED;
                     }
                 } else {
                     mAnimationProcessor.setValuesAndStart(mBuilder.mSliderView.getTranslationX(), 0);
@@ -659,10 +659,10 @@ public class ZXSlideUp implements View.OnTouchListener, ValueAnimator.AnimatorUp
         }
         switch (visibility) {
             case VISIBLE:
-                mCurrentState = State.SHOWED;
+                mCurrentState = SHOWED;
                 break;
             case GONE:
-                mCurrentState = State.HIDDEN;
+                mCurrentState = HIDDEN;
                 break;
         }
     }

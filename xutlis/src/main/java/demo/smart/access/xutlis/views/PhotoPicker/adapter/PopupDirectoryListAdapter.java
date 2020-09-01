@@ -9,8 +9,8 @@ import android.widget.TextView;
 
 import com.bumptech.glide.RequestManager;
 import com.bumptech.glide.request.RequestOptions;
-import com.zx.zxutils.R;
-import com.zx.zxutils.views.PhotoPicker.entity.PhotoDirectory;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.views.PhotoPicker.entity.PhotoDirectory;
 
 import java.util.ArrayList;
 import java.util.List;

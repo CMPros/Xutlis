@@ -8,7 +8,7 @@
     android:orientation="vertical">
 
   <!--<include layout="@layout/__picker_toolbar"/>-->
-  <com.zx.zxutils.views.PhotoPicker.widget.Titlebar
+  <demo.smart.access.xutlis.views.PhotoPicker.widget.Titlebar
       android:id="@+id/titlebar"
       app:mtb_title="@string/__picker_title"
       android:layout_width="match_parent"
@@ -23,7 +23,7 @@
 
     <fragment
         android:id="@+id/photoPagerFragment"
-        android:name="com.zx.zxutils.views.PhotoPicker.fragment.ImagePagerFragment"
+        android:name="demo.smart.access.xutlis.views.PhotoPicker.fragment.ImagePagerFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />

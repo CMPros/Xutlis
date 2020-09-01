@@ -1,7 +1,7 @@
 package demo.smart.access.xutlis.views.MPChart.interfaces.datasets;
 
-import com.zx.zxutils.views.MPChart.data.PieDataSet;
-import com.zx.zxutils.views.MPChart.data.PieEntry;
+import demo.smart.access.xutlis.views.MPChart.data.PieDataSet;
+import demo.smart.access.xutlis.views.MPChart.data.PieEntry;
 
 /**
  * Created by Philipp Jahoda on 03/11/15.

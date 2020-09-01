@@ -24,8 +24,8 @@ import android.util.TypedValue;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.ZXApp;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.ZXApp;
 
 import java.io.File;
 import java.net.NetworkInterface;

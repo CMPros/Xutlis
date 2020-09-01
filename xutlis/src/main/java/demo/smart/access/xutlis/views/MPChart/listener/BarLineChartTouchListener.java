@@ -8,16 +8,16 @@ import android.view.VelocityTracker;
 import android.view.View;
 import android.view.animation.AnimationUtils;
 
-import com.zx.zxutils.views.MPChart.charts.BarLineChartBase;
-import com.zx.zxutils.views.MPChart.charts.HorizontalBarChart;
-import com.zx.zxutils.views.MPChart.data.BarLineScatterCandleBubbleData;
-import com.zx.zxutils.views.MPChart.data.Entry;
-import com.zx.zxutils.views.MPChart.highlight.Highlight;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IBarLineScatterCandleBubbleDataSet;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IDataSet;
-import com.zx.zxutils.views.MPChart.utils.MPPointF;
-import com.zx.zxutils.views.MPChart.utils.Utils;
-import com.zx.zxutils.views.MPChart.utils.ViewPortHandler;
+import demo.smart.access.xutlis.views.MPChart.charts.BarLineChartBase;
+import demo.smart.access.xutlis.views.MPChart.charts.HorizontalBarChart;
+import demo.smart.access.xutlis.views.MPChart.data.BarLineScatterCandleBubbleData;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.highlight.Highlight;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IBarLineScatterCandleBubbleDataSet;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IDataSet;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointF;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.utils.ViewPortHandler;
 
 /**
  * TouchListener for Bar-, Line-, Scatter- and CandleStickChart with handles all

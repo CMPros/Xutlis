@@ -15,10 +15,10 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.zx.zxutils.views.CameraView.listener.CaptureListener;
-import com.zx.zxutils.views.CameraView.listener.BtnClickListener;
-import com.zx.zxutils.views.CameraView.listener.ReturnListener;
-import com.zx.zxutils.views.CameraView.listener.TypeListener;
+import demo.smart.access.xutlis.views.CameraView.listener.CaptureListener;
+import demo.smart.access.xutlis.views.CameraView.listener.BtnClickListener;
+import demo.smart.access.xutlis.views.CameraView.listener.ReturnListener;
+import demo.smart.access.xutlis.views.CameraView.listener.TypeListener;
 
 
 /**

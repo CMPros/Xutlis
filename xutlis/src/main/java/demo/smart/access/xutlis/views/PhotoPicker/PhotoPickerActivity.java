@@ -7,12 +7,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Toast;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.views.PhotoPicker.entity.Photo;
-import com.zx.zxutils.views.PhotoPicker.event.OnItemCheckListener;
-import com.zx.zxutils.views.PhotoPicker.fragment.ImagePagerFragment;
-import com.zx.zxutils.views.PhotoPicker.fragment.PhotoPickerFragment;
-import com.zx.zxutils.views.PhotoPicker.widget.Titlebar;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.views.PhotoPicker.entity.Photo;
+import demo.smart.access.xutlis.views.PhotoPicker.event.OnItemCheckListener;
+import demo.smart.access.xutlis.views.PhotoPicker.fragment.ImagePagerFragment;
+import demo.smart.access.xutlis.views.PhotoPicker.fragment.PhotoPickerFragment;
+import demo.smart.access.xutlis.views.PhotoPicker.widget.Titlebar;
 
 import java.util.ArrayList;
 import java.util.List;

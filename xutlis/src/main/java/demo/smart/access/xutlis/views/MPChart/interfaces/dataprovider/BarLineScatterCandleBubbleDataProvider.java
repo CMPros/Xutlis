@@ -1,8 +1,8 @@
 package demo.smart.access.xutlis.views.MPChart.interfaces.dataprovider;
 
-import com.zx.zxutils.views.MPChart.components.YAxis.AxisDependency;
-import com.zx.zxutils.views.MPChart.data.BarLineScatterCandleBubbleData;
-import com.zx.zxutils.views.MPChart.utils.Transformer;
+import demo.smart.access.xutlis.views.MPChart.components.YAxis.AxisDependency;
+import demo.smart.access.xutlis.views.MPChart.data.BarLineScatterCandleBubbleData;
+import demo.smart.access.xutlis.views.MPChart.utils.Transformer;
 
 public interface BarLineScatterCandleBubbleDataProvider extends ChartInterface {
 

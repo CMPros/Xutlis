@@ -7,11 +7,11 @@ import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.other.QuickAdapter.ZXBaseHolder;
-import com.zx.zxutils.other.QuickAdapter.ZXQuickAdapter;
-import com.zx.zxutils.views.SwipeRecylerView.LoadMoreListener;
-import com.zx.zxutils.views.SwipeRecylerView.NotifyListener;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.other.QuickAdapter.ZXBaseHolder;
+import demo.smart.access.xutlis.other.QuickAdapter.ZXQuickAdapter;
+import demo.smart.access.xutlis.views.SwipeRecylerView.LoadMoreListener;
+import demo.smart.access.xutlis.views.SwipeRecylerView.NotifyListener;
 
 import java.util.List;
 

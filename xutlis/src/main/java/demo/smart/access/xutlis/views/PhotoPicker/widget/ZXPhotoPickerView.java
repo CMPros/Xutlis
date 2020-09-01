@@ -12,9 +12,9 @@ import android.util.AttributeSet;
 import android.widget.FrameLayout;
 import android.widget.Toast;
 
-import com.zx.zxutils.views.PhotoPicker.PhotoPickUtils;
-import com.zx.zxutils.views.PhotoPicker.listener.OnDeleteListener;
-import com.zx.zxutils.views.PhotoPicker.listener.OnPhotoItemClickListener;
+import demo.smart.access.xutlis.views.PhotoPicker.PhotoPickUtils;
+import demo.smart.access.xutlis.views.PhotoPicker.listener.OnDeleteListener;
+import demo.smart.access.xutlis.views.PhotoPicker.listener.OnPhotoItemClickListener;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

@@ -1,7 +1,7 @@
 package demo.smart.access.xutlis.views.MPChart.formatter;
 
-import com.zx.zxutils.views.MPChart.interfaces.datasets.ILineDataSet;
-import com.zx.zxutils.views.MPChart.interfaces.dataprovider.LineDataProvider;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.ILineDataSet;
+import demo.smart.access.xutlis.views.MPChart.interfaces.dataprovider.LineDataProvider;
 
 /**
  * Interface for providing a custom logic to where the filling line of a LineDataSet

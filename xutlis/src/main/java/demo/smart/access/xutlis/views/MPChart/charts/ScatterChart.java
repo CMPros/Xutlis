@@ -4,9 +4,9 @@ package demo.smart.access.xutlis.views.MPChart.charts;
 import android.content.Context;
 import android.util.AttributeSet;
 
-import com.zx.zxutils.views.MPChart.data.ScatterData;
-import com.zx.zxutils.views.MPChart.interfaces.dataprovider.ScatterDataProvider;
-import com.zx.zxutils.views.MPChart.renderer.ScatterChartRenderer;
+import demo.smart.access.xutlis.views.MPChart.data.ScatterData;
+import demo.smart.access.xutlis.views.MPChart.interfaces.dataprovider.ScatterDataProvider;
+import demo.smart.access.xutlis.views.MPChart.renderer.ScatterChartRenderer;
 
 /**
  * The ScatterChart. Draws dots, triangles, squares and custom shapes into the

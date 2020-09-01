@@ -13,13 +13,13 @@ import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
-import com.zx.zxutils.R;
-import com.zx.zxutils.util.ZXDialogUtil;
-import com.zx.zxutils.util.ZXToastUtil;
-import com.zx.zxutils.views.PhotoPicker.PhotoPickUtils;
-import com.zx.zxutils.views.PhotoPicker.ZXPhotoPreview;
-import com.zx.zxutils.views.PhotoPicker.listener.OnDeleteListener;
-import com.zx.zxutils.views.PhotoPicker.listener.OnPhotoItemClickListener;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.util.ZXDialogUtil;
+import demo.smart.access.xutlis.util.ZXToastUtil;
+import demo.smart.access.xutlis.views.PhotoPicker.PhotoPickUtils;
+import demo.smart.access.xutlis.views.PhotoPicker.ZXPhotoPreview;
+import demo.smart.access.xutlis.views.PhotoPicker.listener.OnDeleteListener;
+import demo.smart.access.xutlis.views.PhotoPicker.listener.OnPhotoItemClickListener;
 
 import java.io.File;
 import java.util.ArrayList;

@@ -10,7 +10,7 @@ import android.support.annotation.NonNull;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.zx.zxutils.ZXApp;
+import demo.smart.access.xutlis.ZXApp;
 
 /**
  * Created by Xiangb on 2019/1/10.

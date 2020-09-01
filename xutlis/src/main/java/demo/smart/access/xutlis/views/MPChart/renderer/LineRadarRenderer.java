@@ -5,9 +5,9 @@ import android.graphics.Paint;
 import android.graphics.Path;
 import android.graphics.drawable.Drawable;
 
-import com.zx.zxutils.views.MPChart.animation.ChartAnimator;
-import com.zx.zxutils.views.MPChart.utils.Utils;
-import com.zx.zxutils.views.MPChart.utils.ViewPortHandler;
+import demo.smart.access.xutlis.views.MPChart.animation.ChartAnimator;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.utils.ViewPortHandler;
 
 /**
  * Created by Philipp Jahoda on 25/01/16.

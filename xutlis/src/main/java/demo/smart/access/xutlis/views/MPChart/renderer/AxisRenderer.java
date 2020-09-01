@@ -6,11 +6,11 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Paint.Style;
 
-import com.zx.zxutils.views.MPChart.components.AxisBase;
-import com.zx.zxutils.views.MPChart.utils.MPPointD;
-import com.zx.zxutils.views.MPChart.utils.Transformer;
-import com.zx.zxutils.views.MPChart.utils.Utils;
-import com.zx.zxutils.views.MPChart.utils.ViewPortHandler;
+import demo.smart.access.xutlis.views.MPChart.components.AxisBase;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointD;
+import demo.smart.access.xutlis.views.MPChart.utils.Transformer;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.utils.ViewPortHandler;
 
 /**
  * Baseclass of all axis renderers.

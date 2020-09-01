@@ -1,6 +1,6 @@
 package demo.smart.access.xutlis.views.MPChart.interfaces.dataprovider;
 
-import com.zx.zxutils.views.MPChart.data.ScatterData;
+import demo.smart.access.xutlis.views.MPChart.data.ScatterData;
 
 public interface ScatterDataProvider extends BarLineScatterCandleBubbleDataProvider {
 

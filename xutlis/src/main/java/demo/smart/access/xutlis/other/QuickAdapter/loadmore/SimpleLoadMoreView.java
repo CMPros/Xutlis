@@ -1,7 +1,7 @@
 package demo.smart.access.xutlis.other.QuickAdapter.loadmore;
 
 
-import com.zx.zxutils.R;
+import demo.smart.access.xutlis.R;
 
 /**
  * Created by BlingBling on 2016/10/11.

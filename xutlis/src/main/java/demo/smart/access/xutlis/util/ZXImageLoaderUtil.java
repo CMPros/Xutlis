@@ -17,8 +17,8 @@ import com.bumptech.glide.load.resource.bitmap.BitmapTransformation;
 import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions;
 import com.bumptech.glide.request.RequestOptions;
 import com.bumptech.glide.request.target.SimpleTarget;
-import com.zx.zxutils.R;
-import com.zx.zxutils.ZXApp;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.ZXApp;
 
 import java.io.File;
 import java.nio.charset.Charset;

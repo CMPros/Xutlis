@@ -3,7 +3,7 @@ package demo.smart.access.xutlis.views.MPChart.components;
 import android.graphics.Color;
 import android.graphics.Paint;
 
-import com.zx.zxutils.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
 
 /**
  * Class representing the y-axis labels settings and its entries. Only use the setter methods to

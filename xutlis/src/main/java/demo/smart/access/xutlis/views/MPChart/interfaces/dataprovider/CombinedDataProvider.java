@@ -1,6 +1,6 @@
 package demo.smart.access.xutlis.views.MPChart.interfaces.dataprovider;
 
-import com.zx.zxutils.views.MPChart.data.CombinedData;
+import demo.smart.access.xutlis.views.MPChart.data.CombinedData;
 
 /**
  * Created by philipp on 11/06/16.

@@ -13,9 +13,9 @@ import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.entity.KeyValueEntity;
-import com.zx.zxutils.util.ZXSystemUtil;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.entity.KeyValueEntity;
+import demo.smart.access.xutlis.util.ZXSystemUtil;
 
 import java.util.ArrayList;
 import java.util.List;

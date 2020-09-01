@@ -1,7 +1,7 @@
 package demo.smart.access.xutlis.views.MPChart.formatter;
 
-import com.zx.zxutils.views.MPChart.data.Entry;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IDataSet;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IDataSet;
 
 /**
  * Interface that can be used to return a customized color instead of setting

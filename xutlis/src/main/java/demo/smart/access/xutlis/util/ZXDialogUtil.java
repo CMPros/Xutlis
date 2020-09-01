@@ -18,7 +18,7 @@ import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.zx.zxutils.R;
+import demo.smart.access.xutlis.R;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -6,9 +6,9 @@ import android.support.annotation.NonNull;
 import android.util.SparseIntArray;
 import android.view.ViewGroup;
 
-import com.zx.zxutils.other.QuickAdapter.entity.IExpandable;
-import com.zx.zxutils.other.QuickAdapter.entity.MultiItemEntity;
-import com.zx.zxutils.other.QuickAdapter.entity.SectionMultiEntity;
+import demo.smart.access.xutlis.other.QuickAdapter.entity.IExpandable;
+import demo.smart.access.xutlis.other.QuickAdapter.entity.MultiItemEntity;
+import demo.smart.access.xutlis.other.QuickAdapter.entity.SectionMultiEntity;
 
 import java.util.List;
 

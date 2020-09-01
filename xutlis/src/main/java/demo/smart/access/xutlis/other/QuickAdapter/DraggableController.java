@@ -9,18 +9,18 @@ import android.support.v7.widget.helper.ItemTouchHelper;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.other.QuickAdapter.callback.ItemDragAndSwipeCallback;
-import com.zx.zxutils.other.QuickAdapter.listener.IDraggableListener;
-import com.zx.zxutils.other.QuickAdapter.listener.OnItemDragListener;
-import com.zx.zxutils.other.QuickAdapter.listener.OnItemSwipeListener;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.other.QuickAdapter.callback.ItemDragAndSwipeCallback;
+import demo.smart.access.xutlis.other.QuickAdapter.listener.IDraggableListener;
+import demo.smart.access.xutlis.other.QuickAdapter.listener.OnItemDragListener;
+import demo.smart.access.xutlis.other.QuickAdapter.listener.OnItemSwipeListener;
 
 import java.util.Collections;
 
-import static com.zx.zxutils.other.QuickAdapter.ZXQuickAdapter.EMPTY_VIEW;
-import static com.zx.zxutils.other.QuickAdapter.ZXQuickAdapter.FOOTER_VIEW;
-import static com.zx.zxutils.other.QuickAdapter.ZXQuickAdapter.HEADER_VIEW;
-import static com.zx.zxutils.other.QuickAdapter.ZXQuickAdapter.LOADING_VIEW;
+import static demo.smart.access.xutlis.other.QuickAdapter.ZXQuickAdapter.EMPTY_VIEW;
+import static demo.smart.access.xutlis.other.QuickAdapter.ZXQuickAdapter.FOOTER_VIEW;
+import static demo.smart.access.xutlis.other.QuickAdapter.ZXQuickAdapter.HEADER_VIEW;
+import static demo.smart.access.xutlis.other.QuickAdapter.ZXQuickAdapter.LOADING_VIEW;
 
 
 /**

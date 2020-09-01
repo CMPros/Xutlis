@@ -5,13 +5,13 @@ import android.graphics.Color;
 import android.graphics.DashPathEffect;
 import android.graphics.Typeface;
 
-import com.zx.zxutils.views.MPChart.components.Legend;
-import com.zx.zxutils.views.MPChart.components.YAxis;
-import com.zx.zxutils.views.MPChart.formatter.IValueFormatter;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IDataSet;
-import com.zx.zxutils.views.MPChart.utils.ColorTemplate;
-import com.zx.zxutils.views.MPChart.utils.MPPointF;
-import com.zx.zxutils.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.components.Legend;
+import demo.smart.access.xutlis.views.MPChart.components.YAxis;
+import demo.smart.access.xutlis.views.MPChart.formatter.IValueFormatter;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IDataSet;
+import demo.smart.access.xutlis.views.MPChart.utils.ColorTemplate;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointF;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
 
 import java.util.ArrayList;
 import java.util.List;

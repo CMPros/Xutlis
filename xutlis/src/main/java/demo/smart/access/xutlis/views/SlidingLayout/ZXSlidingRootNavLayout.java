@@ -10,9 +10,9 @@ import android.view.View;
 import android.view.ViewConfiguration;
 import android.widget.FrameLayout;
 
-import com.zx.zxutils.views.SlidingLayout.callback.DragListener;
-import com.zx.zxutils.views.SlidingLayout.callback.DragStateListener;
-import com.zx.zxutils.views.SlidingLayout.transform.RootTransformation;
+import demo.smart.access.xutlis.views.SlidingLayout.callback.DragListener;
+import demo.smart.access.xutlis.views.SlidingLayout.callback.DragStateListener;
+import demo.smart.access.xutlis.views.SlidingLayout.transform.RootTransformation;
 
 import java.util.ArrayList;
 import java.util.List;

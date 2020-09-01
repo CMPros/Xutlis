@@ -8,8 +8,8 @@ import android.graphics.Path;
 import android.support.v4.content.ContextCompat;
 import android.view.View;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.util.ZXBitmapUtil;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.util.ZXBitmapUtil;
 
 /**
  * =====================================

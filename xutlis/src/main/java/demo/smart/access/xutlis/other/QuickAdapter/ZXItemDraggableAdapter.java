@@ -8,9 +8,9 @@ import android.support.v7.widget.helper.ItemTouchHelper;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.other.QuickAdapter.listener.OnItemDragListener;
-import com.zx.zxutils.other.QuickAdapter.listener.OnItemSwipeListener;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.other.QuickAdapter.listener.OnItemDragListener;
+import demo.smart.access.xutlis.other.QuickAdapter.listener.OnItemSwipeListener;
 
 import java.util.Collections;
 import java.util.List;

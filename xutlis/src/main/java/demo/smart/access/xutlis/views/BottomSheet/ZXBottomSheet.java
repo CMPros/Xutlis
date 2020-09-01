@@ -10,8 +10,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.TextView;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.other.ZXItemClickSupport;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.other.ZXItemClickSupport;
 
 import java.util.ArrayList;
 import java.util.List;

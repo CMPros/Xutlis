@@ -7,7 +7,7 @@ import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.zx.zxutils.util.ZXScreenUtil;
+import demo.smart.access.xutlis.util.ZXScreenUtil;
 
 
 /**

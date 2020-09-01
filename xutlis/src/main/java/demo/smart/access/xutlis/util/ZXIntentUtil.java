@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.support.v4.content.FileProvider;
 import android.webkit.MimeTypeMap;
 
-import com.zx.zxutils.ZXApp;
+import demo.smart.access.xutlis.ZXApp;
 
 import java.io.File;
 

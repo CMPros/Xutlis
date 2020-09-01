@@ -4,7 +4,7 @@ package demo.smart.access.xutlis.views.MPChart.components;
 import android.graphics.Color;
 import android.graphics.Typeface;
 
-import com.zx.zxutils.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
 
 /**
  * This class encapsulates everything both Axis, Legend and LimitLines have in common.

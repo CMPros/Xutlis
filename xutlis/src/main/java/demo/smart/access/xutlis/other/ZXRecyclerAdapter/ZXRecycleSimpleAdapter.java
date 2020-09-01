@@ -8,9 +8,9 @@ import android.view.ViewGroup;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.views.SwipeRecylerView.LoadMoreListener;
-import com.zx.zxutils.views.SwipeRecylerView.NotifyListener;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.views.SwipeRecylerView.LoadMoreListener;
+import demo.smart.access.xutlis.views.SwipeRecylerView.NotifyListener;
 
 import java.util.List;
 

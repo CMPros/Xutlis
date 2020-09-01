@@ -1,6 +1,6 @@
 package demo.smart.access.xutlis.views.MPChart;
 
-import com.zx.zxutils.R;
+import demo.smart.access.xutlis.R;
 
 /**
  * Created by Xiangb on 2017/4/5.

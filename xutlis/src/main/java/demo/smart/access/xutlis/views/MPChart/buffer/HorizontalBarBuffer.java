@@ -2,8 +2,8 @@
 package demo.smart.access.xutlis.views.MPChart.buffer;
 
 
-import com.zx.zxutils.views.MPChart.data.BarEntry;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IBarDataSet;
+import demo.smart.access.xutlis.views.MPChart.data.BarEntry;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IBarDataSet;
 
 public class HorizontalBarBuffer extends BarBuffer {
 

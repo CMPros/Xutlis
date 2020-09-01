@@ -2,9 +2,9 @@ package demo.smart.access.xutlis.views.MPChart.interfaces.datasets;
 
 import android.graphics.DashPathEffect;
 
-import com.zx.zxutils.views.MPChart.data.Entry;
-import com.zx.zxutils.views.MPChart.data.LineDataSet;
-import com.zx.zxutils.views.MPChart.formatter.IFillFormatter;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.data.LineDataSet;
+import demo.smart.access.xutlis.views.MPChart.formatter.IFillFormatter;
 
 /**
  * Created by Philpp Jahoda on 21/10/15.

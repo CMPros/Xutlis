@@ -3,7 +3,7 @@ package demo.smart.access.xutlis.views.SlidingLayout.util;
 import android.content.Context;
 import android.support.v4.widget.DrawerLayout;
 
-import com.zx.zxutils.views.SlidingLayout.ZXSlidingRootNavLayout;
+import demo.smart.access.xutlis.views.SlidingLayout.ZXSlidingRootNavLayout;
 
 
 /**

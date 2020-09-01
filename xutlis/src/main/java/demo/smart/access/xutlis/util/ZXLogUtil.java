@@ -2,7 +2,7 @@ package demo.smart.access.xutlis.util;
 
 import android.util.Log;
 
-import com.zx.zxutils.ZXApp;
+import demo.smart.access.xutlis.ZXApp;
 
 import java.util.Locale;
 

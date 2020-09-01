@@ -8,17 +8,17 @@ import android.graphics.Paint.Align;
 import android.graphics.Path;
 import android.graphics.Typeface;
 
-import com.zx.zxutils.views.MPChart.components.Legend;
-import com.zx.zxutils.views.MPChart.components.LegendEntry;
-import com.zx.zxutils.views.MPChart.data.ChartData;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IBarDataSet;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.ICandleDataSet;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IDataSet;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.IPieDataSet;
-import com.zx.zxutils.views.MPChart.utils.ColorTemplate;
-import com.zx.zxutils.views.MPChart.utils.FSize;
-import com.zx.zxutils.views.MPChart.utils.Utils;
-import com.zx.zxutils.views.MPChart.utils.ViewPortHandler;
+import demo.smart.access.xutlis.views.MPChart.components.Legend;
+import demo.smart.access.xutlis.views.MPChart.components.LegendEntry;
+import demo.smart.access.xutlis.views.MPChart.data.ChartData;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IBarDataSet;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.ICandleDataSet;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IDataSet;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.IPieDataSet;
+import demo.smart.access.xutlis.views.MPChart.utils.ColorTemplate;
+import demo.smart.access.xutlis.views.MPChart.utils.FSize;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.utils.ViewPortHandler;
 
 import java.util.ArrayList;
 import java.util.Collections;

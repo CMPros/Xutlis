@@ -17,10 +17,10 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.views.PhotoPicker.fragment.ImagePagerFragment;
-import com.zx.zxutils.views.PhotoPicker.widget.ZXPhotoPickerView;
-import com.zx.zxutils.views.PhotoPicker.widget.Titlebar;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.views.PhotoPicker.fragment.ImagePagerFragment;
+import demo.smart.access.xutlis.views.PhotoPicker.widget.ZXPhotoPickerView;
+import demo.smart.access.xutlis.views.PhotoPicker.widget.Titlebar;
 
 import java.util.List;
 

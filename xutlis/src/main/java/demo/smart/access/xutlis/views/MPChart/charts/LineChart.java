@@ -4,9 +4,9 @@ package demo.smart.access.xutlis.views.MPChart.charts;
 import android.content.Context;
 import android.util.AttributeSet;
 
-import com.zx.zxutils.views.MPChart.data.LineData;
-import com.zx.zxutils.views.MPChart.interfaces.dataprovider.LineDataProvider;
-import com.zx.zxutils.views.MPChart.renderer.LineChartRenderer;
+import demo.smart.access.xutlis.views.MPChart.data.LineData;
+import demo.smart.access.xutlis.views.MPChart.interfaces.dataprovider.LineDataProvider;
+import demo.smart.access.xutlis.views.MPChart.renderer.LineChartRenderer;
 
 /**
  * Chart that draws lines, surfaces, circles, ...

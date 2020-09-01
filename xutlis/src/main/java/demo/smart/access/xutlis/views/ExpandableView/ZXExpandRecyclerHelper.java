@@ -4,7 +4,7 @@ import android.content.Context;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-import com.zx.zxutils.other.ZXExpandItemClickListener;
+import demo.smart.access.xutlis.other.ZXExpandItemClickListener;
 
 import java.util.ArrayList;
 import java.util.List;

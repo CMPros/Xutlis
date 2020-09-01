@@ -4,9 +4,9 @@ import android.graphics.Bitmap;
 import android.view.Surface;
 import android.view.SurfaceHolder;
 
-import com.zx.zxutils.util.ZXLogUtil;
-import com.zx.zxutils.views.CameraView.CameraInterface;
-import com.zx.zxutils.views.CameraView.ZXCameraView;
+import demo.smart.access.xutlis.util.ZXLogUtil;
+import demo.smart.access.xutlis.views.CameraView.CameraInterface;
+import demo.smart.access.xutlis.views.CameraView.ZXCameraView;
 
 
 /**

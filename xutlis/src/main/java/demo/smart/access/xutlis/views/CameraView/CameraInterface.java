@@ -23,14 +23,14 @@ import android.view.Surface;
 import android.view.SurfaceHolder;
 import android.widget.ImageView;
 
-import com.zx.zxutils.util.ZXDeviceUtil;
-import com.zx.zxutils.util.ZXFileUtil;
-import com.zx.zxutils.util.ZXLogUtil;
-import com.zx.zxutils.util.ZXScreenUtil;
-import com.zx.zxutils.views.CameraView.listener.CameraListener;
-import com.zx.zxutils.views.CameraView.util.AngleUtil;
-import com.zx.zxutils.views.CameraView.util.CameraParamUtil;
-import com.zx.zxutils.views.CameraView.util.CheckPermission;
+import demo.smart.access.xutlis.util.ZXDeviceUtil;
+import demo.smart.access.xutlis.util.ZXFileUtil;
+import demo.smart.access.xutlis.util.ZXLogUtil;
+import demo.smart.access.xutlis.util.ZXScreenUtil;
+import demo.smart.access.xutlis.views.CameraView.listener.CameraListener;
+import demo.smart.access.xutlis.views.CameraView.util.AngleUtil;
+import demo.smart.access.xutlis.views.CameraView.util.CameraParamUtil;
+import demo.smart.access.xutlis.views.CameraView.util.CheckPermission;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

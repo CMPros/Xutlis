@@ -7,14 +7,14 @@ import android.graphics.Color;
 import android.graphics.RectF;
 import android.util.AttributeSet;
 
-import com.zx.zxutils.views.MPChart.components.YAxis;
-import com.zx.zxutils.views.MPChart.components.YAxis.AxisDependency;
-import com.zx.zxutils.views.MPChart.data.RadarData;
-import com.zx.zxutils.views.MPChart.highlight.RadarHighlighter;
-import com.zx.zxutils.views.MPChart.renderer.RadarChartRenderer;
-import com.zx.zxutils.views.MPChart.renderer.XAxisRendererRadarChart;
-import com.zx.zxutils.views.MPChart.renderer.YAxisRendererRadarChart;
-import com.zx.zxutils.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.components.YAxis;
+import demo.smart.access.xutlis.views.MPChart.components.YAxis.AxisDependency;
+import demo.smart.access.xutlis.views.MPChart.data.RadarData;
+import demo.smart.access.xutlis.views.MPChart.highlight.RadarHighlighter;
+import demo.smart.access.xutlis.views.MPChart.renderer.RadarChartRenderer;
+import demo.smart.access.xutlis.views.MPChart.renderer.XAxisRendererRadarChart;
+import demo.smart.access.xutlis.views.MPChart.renderer.YAxisRendererRadarChart;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
 
 /**
  * Implementation of the RadarChart, a "spidernet"-like chart. It works best

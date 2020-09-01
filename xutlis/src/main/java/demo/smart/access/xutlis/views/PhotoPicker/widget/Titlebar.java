@@ -14,7 +14,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.zx.zxutils.R;
+import demo.smart.access.xutlis.R;
 
 
 /**

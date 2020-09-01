@@ -3,7 +3,7 @@ package demo.smart.access.xutlis.views.MPChart.data;
 import android.annotation.SuppressLint;
 import android.graphics.drawable.Drawable;
 
-import com.zx.zxutils.views.MPChart.highlight.Range;
+import demo.smart.access.xutlis.views.MPChart.highlight.Range;
 
 /**
  * Entry class for the BarChart. (especially stacked bars)

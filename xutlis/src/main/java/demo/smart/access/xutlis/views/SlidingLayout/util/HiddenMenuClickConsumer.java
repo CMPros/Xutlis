@@ -4,7 +4,7 @@ import android.content.Context;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.zx.zxutils.views.SlidingLayout.ZXSlidingRootNavLayout;
+import demo.smart.access.xutlis.views.SlidingLayout.ZXSlidingRootNavLayout;
 
 
 /**

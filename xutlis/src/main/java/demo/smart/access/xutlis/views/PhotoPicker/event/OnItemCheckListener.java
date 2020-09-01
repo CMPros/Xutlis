@@ -1,7 +1,7 @@
 package demo.smart.access.xutlis.views.PhotoPicker.event;
 
 
-import com.zx.zxutils.views.PhotoPicker.entity.Photo;
+import demo.smart.access.xutlis.views.PhotoPicker.entity.Photo;
 
 /**
  * Created by donglua on 15/6/20.

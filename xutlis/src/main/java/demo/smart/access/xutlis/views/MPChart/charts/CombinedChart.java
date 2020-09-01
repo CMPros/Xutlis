@@ -5,16 +5,16 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.util.Log;
 
-import com.zx.zxutils.views.MPChart.data.BarData;
-import com.zx.zxutils.views.MPChart.data.BubbleData;
-import com.zx.zxutils.views.MPChart.data.CandleData;
-import com.zx.zxutils.views.MPChart.data.CombinedData;
-import com.zx.zxutils.views.MPChart.data.LineData;
-import com.zx.zxutils.views.MPChart.data.ScatterData;
-import com.zx.zxutils.views.MPChart.highlight.CombinedHighlighter;
-import com.zx.zxutils.views.MPChart.highlight.Highlight;
-import com.zx.zxutils.views.MPChart.interfaces.dataprovider.CombinedDataProvider;
-import com.zx.zxutils.views.MPChart.renderer.CombinedChartRenderer;
+import demo.smart.access.xutlis.views.MPChart.data.BarData;
+import demo.smart.access.xutlis.views.MPChart.data.BubbleData;
+import demo.smart.access.xutlis.views.MPChart.data.CandleData;
+import demo.smart.access.xutlis.views.MPChart.data.CombinedData;
+import demo.smart.access.xutlis.views.MPChart.data.LineData;
+import demo.smart.access.xutlis.views.MPChart.data.ScatterData;
+import demo.smart.access.xutlis.views.MPChart.highlight.CombinedHighlighter;
+import demo.smart.access.xutlis.views.MPChart.highlight.Highlight;
+import demo.smart.access.xutlis.views.MPChart.interfaces.dataprovider.CombinedDataProvider;
+import demo.smart.access.xutlis.views.MPChart.renderer.CombinedChartRenderer;
 
 /**
  * This chart class allows the combination of lines, bars, scatter and candle

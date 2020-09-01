@@ -2,9 +2,9 @@ package demo.smart.access.xutlis.views.PhotoPicker.adapter;
 
 import android.support.v7.widget.RecyclerView;
 
-import com.zx.zxutils.views.PhotoPicker.entity.Photo;
-import com.zx.zxutils.views.PhotoPicker.entity.PhotoDirectory;
-import com.zx.zxutils.views.PhotoPicker.event.Selectable;
+import demo.smart.access.xutlis.views.PhotoPicker.entity.Photo;
+import demo.smart.access.xutlis.views.PhotoPicker.entity.PhotoDirectory;
+import demo.smart.access.xutlis.views.PhotoPicker.event.Selectable;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -35,7 +35,8 @@ public abstract class SelectableAdapter<VH extends RecyclerView.ViewHolder>
    * @param photo Photo of the item to check
    * @return true if the item is selected, false otherwise
    */
-  @Override public boolean isSelected(Photo photo) {
+  @Override
+  public boolean isSelected(Photo photo) {
     if (originalPhotos != null && originalPhotos.contains(photo.getPath()) && !selectedPhotos.contains(photo)) {
       selectedPhotos.add(photo);
     }
@@ -43,12 +44,9 @@ public abstract class SelectableAdapter<VH extends RecyclerView.ViewHolder>
   }
 
 
-  /**
-   * Toggle the selection status of the item at a given position
-   *
-   * @param photo Photo of the item to toggle the selection status for
-   */
-  @Override public void toggleSelection(Photo photo) {
+
+  @Override
+  public void toggleSelection(Photo photo) {
     if (selectedPhotos.contains(photo)) {
       selectedPhotos.remove(photo);
       if(originalPhotos!=null &&originalPhotos.contains(photo.getPath())){

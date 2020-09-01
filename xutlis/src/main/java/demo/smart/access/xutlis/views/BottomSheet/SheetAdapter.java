@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.zx.zxutils.R;
+import demo.smart.access.xutlis.R;
 
 import java.util.List;
 

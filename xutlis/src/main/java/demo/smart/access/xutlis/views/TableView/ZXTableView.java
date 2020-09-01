@@ -7,7 +7,7 @@ import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.widget.LinearLayout;
 
-import com.zx.zxutils.R;
+import demo.smart.access.xutlis.R;
 
 import java.util.ArrayList;
 import java.util.List;

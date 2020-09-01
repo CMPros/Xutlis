@@ -2,8 +2,8 @@ package demo.smart.access.xutlis.views.MPChart.components;
 
 import android.graphics.Paint;
 
-import com.zx.zxutils.views.MPChart.utils.MPPointF;
-import com.zx.zxutils.views.MPChart.utils.Utils;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointF;
+import demo.smart.access.xutlis.views.MPChart.utils.Utils;
 
 /**
  * Created by Philipp Jahoda on 17/09/16.

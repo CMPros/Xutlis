@@ -6,10 +6,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.RelativeLayout;
 
-import com.zx.zxutils.views.MPChart.charts.Chart;
-import com.zx.zxutils.views.MPChart.data.Entry;
-import com.zx.zxutils.views.MPChart.highlight.Highlight;
-import com.zx.zxutils.views.MPChart.utils.MPPointF;
+import demo.smart.access.xutlis.views.MPChart.charts.Chart;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.highlight.Highlight;
+import demo.smart.access.xutlis.views.MPChart.utils.MPPointF;
 
 import java.lang.ref.WeakReference;
 

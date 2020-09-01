@@ -18,8 +18,8 @@ import android.view.animation.DecelerateInterpolator;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 
-import com.zx.zxutils.util.ZXLogUtil;
-import com.zx.zxutils.util.ZXScreenUtil;
+import demo.smart.access.xutlis.util.ZXLogUtil;
+import demo.smart.access.xutlis.util.ZXScreenUtil;
 
 import java.util.ArrayList;
 import java.util.Arrays;

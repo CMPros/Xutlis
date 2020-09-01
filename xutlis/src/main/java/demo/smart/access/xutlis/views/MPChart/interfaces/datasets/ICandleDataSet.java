@@ -2,7 +2,7 @@ package demo.smart.access.xutlis.views.MPChart.interfaces.datasets;
 
 import android.graphics.Paint;
 
-import com.zx.zxutils.views.MPChart.data.CandleEntry;
+import demo.smart.access.xutlis.views.MPChart.data.CandleEntry;
 
 /**
  * Created by philipp on 21/10/15.

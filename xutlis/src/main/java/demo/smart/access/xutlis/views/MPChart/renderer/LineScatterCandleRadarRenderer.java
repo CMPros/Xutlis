@@ -3,9 +3,9 @@ package demo.smart.access.xutlis.views.MPChart.renderer;
 import android.graphics.Canvas;
 import android.graphics.Path;
 
-import com.zx.zxutils.views.MPChart.animation.ChartAnimator;
-import com.zx.zxutils.views.MPChart.interfaces.datasets.ILineScatterCandleRadarDataSet;
-import com.zx.zxutils.views.MPChart.utils.ViewPortHandler;
+import demo.smart.access.xutlis.views.MPChart.animation.ChartAnimator;
+import demo.smart.access.xutlis.views.MPChart.interfaces.datasets.ILineScatterCandleRadarDataSet;
+import demo.smart.access.xutlis.views.MPChart.utils.ViewPortHandler;
 
 /**
  * Created by Philipp Jahoda on 11/07/15.

@@ -1,6 +1,6 @@
 package demo.smart.access.xutlis.views.MPChart.interfaces.datasets;
 
-import com.zx.zxutils.views.MPChart.data.BarEntry;
+import demo.smart.access.xutlis.views.MPChart.data.BarEntry;
 
 /**
  * Created by philipp on 21/10/15.

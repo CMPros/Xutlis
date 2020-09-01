@@ -4,8 +4,8 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.zx.zxutils.views.MPChart.charts.Chart;
-import com.zx.zxutils.views.MPChart.highlight.Highlight;
+import demo.smart.access.xutlis.views.MPChart.charts.Chart;
+import demo.smart.access.xutlis.views.MPChart.highlight.Highlight;
 
 /**
  * Created by philipp on 12/06/15.

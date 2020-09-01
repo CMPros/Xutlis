@@ -4,8 +4,8 @@ import android.content.Context;
 import android.view.Surface;
 import android.view.SurfaceHolder;
 
-import com.zx.zxutils.views.CameraView.CameraInterface;
-import com.zx.zxutils.views.CameraView.view.CameraView;
+import demo.smart.access.xutlis.views.CameraView.CameraInterface;
+import demo.smart.access.xutlis.views.CameraView.view.CameraView;
 
 
 /**

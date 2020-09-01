@@ -1,6 +1,6 @@
 package demo.smart.access.xutlis.views.MPChart.interfaces.datasets;
 
-import com.zx.zxutils.views.MPChart.data.RadarEntry;
+import demo.smart.access.xutlis.views.MPChart.data.RadarEntry;
 
 /**
  * Created by Philipp Jahoda on 03/11/15.

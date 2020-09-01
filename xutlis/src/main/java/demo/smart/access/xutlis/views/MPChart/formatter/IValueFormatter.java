@@ -1,7 +1,7 @@
 package demo.smart.access.xutlis.views.MPChart.formatter;
 
-import com.zx.zxutils.views.MPChart.data.Entry;
-import com.zx.zxutils.views.MPChart.utils.ViewPortHandler;
+import demo.smart.access.xutlis.views.MPChart.data.Entry;
+import demo.smart.access.xutlis.views.MPChart.utils.ViewPortHandler;
 
 /**
  * Interface that allows custom formatting of all values inside the chart before they are

@@ -3,7 +3,7 @@ package demo.smart.access.xutlis.views.CameraView.state;
 import android.view.Surface;
 import android.view.SurfaceHolder;
 
-import com.zx.zxutils.views.CameraView.CameraInterface;
+import demo.smart.access.xutlis.views.CameraView.CameraInterface;
 
 
 /**

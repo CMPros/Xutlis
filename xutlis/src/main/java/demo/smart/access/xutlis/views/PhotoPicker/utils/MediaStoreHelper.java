@@ -7,10 +7,10 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.LoaderManager;
 import android.support.v4.content.Loader;
 
-import com.zx.zxutils.R;
-import com.zx.zxutils.util.ZXFileUtil;
-import com.zx.zxutils.views.PhotoPicker.PhotoPicker;
-import com.zx.zxutils.views.PhotoPicker.entity.PhotoDirectory;
+import demo.smart.access.xutlis.R;
+import demo.smart.access.xutlis.util.ZXFileUtil;
+import demo.smart.access.xutlis.views.PhotoPicker.PhotoPicker;
+import demo.smart.access.xutlis.views.PhotoPicker.entity.PhotoDirectory;
 
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;
