@@ -5,11 +5,11 @@ android {
 
     defaultConfig {
         multiDexEnabled true
-        javaCompileOptions{
-            annotationProcessorOptions{
-                includeCompileClasspath true
-            }
-        }
+//        javaCompileOptions{
+//            annotationProcessorOptions{
+//                includeCompileClasspath true
+//            }
+//        }
     }
     android {
         lintOptions {
@@ -36,11 +36,11 @@ repositories {
     mavenCentral()  // GPUImage for Android
 }
 
-configurations {
-
-    all*.exclude group: 'commons-logging', module: 'commons-logging'
-
-}
+//configurations {
+//
+//    all*.exclude group: 'commons-logging', module: 'commons-logging'
+//
+//}
 
 dependencies {
     api fileTree(include: ['*.jar'], dir: 'libs')
