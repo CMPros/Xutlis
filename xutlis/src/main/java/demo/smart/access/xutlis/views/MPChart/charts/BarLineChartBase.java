@@ -542,6 +542,7 @@ public abstract class BarLineChartBase<T extends BarLineScatterCandleBubbleData<
      *
      * @return
      */
+    @Override
     public Transformer getTransformer(AxisDependency which) {
         if (which == AxisDependency.LEFT)
             return mLeftAxisTransformer;
@@ -1062,6 +1063,7 @@ public abstract class BarLineChartBase<T extends BarLineScatterCandleBubbleData<
         this.mMaxVisibleCount = count;
     }
 
+    @Override
     public int getMaxVisibleCount() {
         return mMaxVisibleCount;
     }

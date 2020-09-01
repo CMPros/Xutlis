@@ -982,6 +982,7 @@ public abstract class Chart<T extends ChartData<? extends IDataSet<? extends Ent
      *
      * @return
      */
+    @Override
     public IValueFormatter getDefaultValueFormatter() {
         return mDefaultValueFormatter;
     }
@@ -1399,6 +1400,7 @@ public abstract class Chart<T extends ChartData<? extends IDataSet<? extends Ent
      *
      * @return
      */
+    @Override
     public T getData() {
         return mData;
     }
